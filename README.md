@@ -1,4 +1,9 @@
 # Summary
+Creating face images using Generative Adversarial Networks (GANs).
+
+This project uses GANs models to produce new face images. It works by trying to mimic real-world images of faces. More details about GANs are provided in the overview.
+
+Also, bellow is specified OS and Hardware elements used during this project R&D, explanation of the dataset and gotten results. Further more, the following result section consists of generator image samples and training results. Those consist of generator accuracy graphics, detailed histograms, loss during epochs, detailed distribution and execution performance. These are intended to give more intuition on how GANs tries to solve the given problem and to get better intuition about what happening during the training process.
 
 ## GANs overview
 Generative Adversarial Networks (GANs) belongs to the generative models. That means they are able to generate artificial content base on the arbitrary input.
