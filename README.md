@@ -1,3 +1,5 @@
+![Hero project image](assets/hero.png)
+
 # Summary
 Creating face images using Generative Adversarial Networks (GANs).
 
